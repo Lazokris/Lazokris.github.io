@@ -2,18 +2,14 @@
 layout: project
 type: project
 image: images/download.png.jpg
-title: Pokemon
-permalink: projects/micromouse
-# All dates must be YYYY-MM-DD format!
-date: 2021-09-02
+title: Pokemon game simulation
+permalink: projects/Pokemon Simulation
+date: 2015-09-02
 labels:
   - Java
-summary: My team developed a Pokemon game that simulate catching and battling. 
+summary: My team developed a game simulation of the game Pokemon.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/download.png">
-</div>
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
