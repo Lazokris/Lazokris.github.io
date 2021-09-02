@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/download.png
+image: images/pokey.jpg
 title: Pokemon game simulation
 permalink: projects/Pokemon Simulation
 date: 2015-09-02
