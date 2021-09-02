@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Learning Versatility
-date: 2021-01-09
+date: 2021-09-01
 labels:
   - Software Engineering
   - Learning
