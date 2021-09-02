@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-date: 2015-08-26
+title: Learning Versatility
+date: 2021-01-09
 labels:
   - Software Engineering
   - Learning
 ---
+
 
 My journey in Computer Science led me to my next challenge, ICS 314 (Intro to Software Eng.). It is both exciting and stress-inducing as the pace of the class can be intense. But I am sure this would help me long term. The class introduces a new language I haven't learned and a different teaching method to better prepare me for the future.
 
