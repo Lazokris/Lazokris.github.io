@@ -2,14 +2,15 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Hash Table with Chaining
+permalink: projects/Hashtable
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-04-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Github
+  - School Project
+summary: A educational project that teaches the concept of Hash Table and how to implement them.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
