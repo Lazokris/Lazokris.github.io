@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/BST-Search.png
+image: images/Binary-Search.png
 title: Binary Search Tree
 permalink: projects/Binary Search Tree
 # All dates must be YYYY-MM-DD format!
