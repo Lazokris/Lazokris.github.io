@@ -19,4 +19,4 @@ Hash Table with chaining is a project I have done in Kapiolani CC. It taught me 
 
 <hr>
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-Source: <a href="https://github.com/ICSatKCC/a7-hash-tables-s20-Lazokris/tree/Develop"><i class="large github icon ">
+Source: <a href="https://github.com/ICSatKCC/a7-hash-tables-s20-Lazokris/tree/Develop"><i class="large github icon "></i>Lazokris/ics-211-tree</a>
