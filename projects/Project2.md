@@ -2,57 +2,28 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Binary Search Tree
+permalink: projects/Binary Search Tree
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-05-04
 labels:
-  - Lisp
+  - Java
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - School Project
+  - jGRASP
+summary: A Project that teaches how to use a Binary Search Tree.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+# Pokemo Binary Search Tree
+A Binary Search Tree is a node-based data structure that stores items in a sorted manner; it consists of Leftsubtree and Rightsubtree. A parent node will be the key item to distinguished which subtree the item will be stored.  The key is obtained by using an algorithm of finding the middlemost item. After, the key item will be used to compare which subtree it will be stored. If the value of the next item is less than the key, it will be stored to the left subtree, and if the value is larger than the key to the right. For the project, my Professor used Pokemon objects, which compared names, types, power level, etc., to test how to check objects with similar types.
 
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
