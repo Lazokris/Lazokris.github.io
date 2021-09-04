@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/hash-table.jpg
 title: Hash Table with Chaining
 permalink: projects/Hashtable
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A educational project that teaches the concept of Hash Table and how to implement them.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
