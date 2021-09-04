@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/BTS-Search.png
+image: images/BST-Search.png
 title: Binary Search Tree
 permalink: projects/Binary Search Tree
 # All dates must be YYYY-MM-DD format!
@@ -13,10 +13,6 @@ labels:
   - jGRASP
 summary: A Project that teaches how to use a Binary Search Tree.
 ---
-
-
-
-
 
 
 # Pokemo Binary Search Tree
