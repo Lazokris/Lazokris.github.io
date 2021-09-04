@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hash-table.png
+image: images/binary-search.jpg
 title: Binary Search Tree
 permalink: projects/Binary Search Tree
 # All dates must be YYYY-MM-DD format!
