@@ -10,45 +10,12 @@ labels:
   - Java
   - Github
   - School Project
+  - jGRASP
 summary: A educational project that teaches the concept of Hash Table and how to implement them.
 ---
 
+#Learning Experience
+Hash Table with chaining is a project I have done in Kapiolani CC. It taught me the concept of operating a Hash Table. It is an array-based hash table that utilizes LinkedList, which consists of nodes needed to be stored. It required me to learn how to use a function like a get(), remove(), and put() to be able to organize the storing of the items in the array. The project also taught me how to distinguish similar items using a boolean compare method that takes in a parameter to compare and output true if they are similar, false if not. Overall the Hash Table project gave me an insight into how to use their functions properly. However, I still need more practice to utilize it better.
 
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-
-
-look
-Hash Table with chaining is a class project I
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/ICSatKCC/a7-hash-tables-s20-Lazokris/tree/Develop"
