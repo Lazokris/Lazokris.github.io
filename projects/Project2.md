@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/BTS-Search.png
 title: Binary Search Tree
 permalink: projects/Binary Search Tree
 # All dates must be YYYY-MM-DD format!
@@ -28,4 +28,4 @@ A Binary Search Tree is a node-based data structure that stores items in a sorte
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/ICSatKCC/a8-poketree-s20-Lazokris"><i class="large github icon "></i>LazoKris/ics-211-BST-Search</a>
