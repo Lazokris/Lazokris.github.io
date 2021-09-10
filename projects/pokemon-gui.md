@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pokemon.jpg
 title: Pokemon Graphical User Interface 
-permalink: Pokemon-GUI
+permalink: Pokemon-gui
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-13
 labels:
