@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hash-table.png
 title: Hash Table with Chaining
-permalink: projects/Hashtable
+permalink: Hash-table
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-20
 labels:
