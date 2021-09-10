@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/binary-search.jpg
 title: Binary Search Tree
-permalink: projects/Binary-tree
+permalink: projects/Binary
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-04
 labels:
