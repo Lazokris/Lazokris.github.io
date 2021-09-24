@@ -12,6 +12,7 @@ labels:
 
 ## What is Coding Standards
 Coding standards are rules and guidelines that define how programmers should write a program. For example, in JavaScript Primitive Data Type, the use of var is to be avoided; this is because var is a global Data Type meaning its value can be reassigned, leading to bugs in your program. Instead, the use of const and let is referred to because of their local scope.
+
 ```
     // bad
     var a = 1;
@@ -21,7 +22,6 @@ Coding standards are rules and guidelines that define how programmers should wri
     const b = 2;
     /* from https://github.com/airbnb/javascript */
 ```
-
 
 
 ## Why is Coding Standards important
@@ -43,6 +43,7 @@ ESLint: Requires a space before '}'. (block-spacing)
 
 ## Main aspects of Coding Standard
 Some of the aspects of a Coding Standard are listed.  Naming a variable must be in a camelCase form. If the Data Type variable is two syllables (i.e., getting total array), you could name the variable totalArr, tArr, or totalArray. Indentation is another Coding Standard that is widely enforced. As well as having Comments to explain how your code is written. Having standard indentation and explanatory comments can help with the readability of your code, which can then help others to debug them.
+
 ```
  /**
  * A generic list of linked nodes.
