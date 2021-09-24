@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A tool for better programing
+title: A tool for better programming
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-23
 labels:
