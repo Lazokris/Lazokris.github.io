@@ -7,7 +7,9 @@ date: 2021-09-30
 labels:
 - Software Engineering
 - Learning
-- Coding Standards
+- RadGrad
+- Computer Science
+- Planning
 ---
 <body style="background-color: ivory">
 <h1 style="font-family: monospace; text-align: center; color: darkcyan" >What is RadGrad </h1>
