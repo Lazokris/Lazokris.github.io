@@ -30,7 +30,7 @@
   "interests": [
     {
       "name": "Software Engineering",
-      "keywords": [   
+      "keywords": [
       ]
     },
     {
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Game Developer",
+      "name": "Game Development",
       "keywords": [
       ]
     }
@@ -52,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "React"
       ]
     },
     {
@@ -85,7 +86,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "update books",
+        "update collection",
         "archive information"
       ]
     },
@@ -97,11 +98,11 @@
       "endDate": "2018-03-15",
       "summary": "",
       "highlights": [
-        "Deliver Food"     
+        "Deliver Food"
       ]
     }
   ],
-  
+
   "references": [
     {
       "name": "Available upon request",
