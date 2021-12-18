@@ -24,4 +24,5 @@ Roommate Radar is a Web Application group project created for the purpose of hel
 
 
 You can find out more about the project
+
 Source: <a href="https://github.com/roommate-radar/roommate-radar"><i class="large github icon "></i>roommate-radar/roommate-radar</a>
