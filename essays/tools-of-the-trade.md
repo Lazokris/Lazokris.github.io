@@ -3,7 +3,8 @@ layout: essay
 type: essay 
 title: Tools Of The Trade
 # All dates must be YYYY-MM-DD format!
-date: 2021-12-17 labels:
+date: 2021-12-17 
+labels:
 - Computer Science
 - Software Engineering
 - Functional Programming
