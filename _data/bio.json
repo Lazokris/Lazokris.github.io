@@ -39,6 +39,11 @@
       ]
     },
     {
+      "name": "Wev Development",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Game Development",
       "keywords": [
       ]
@@ -53,6 +58,8 @@
         "C++",
         "Java",
         "Javascript",
+        "Meteor",
+        "Gatsby",
         "React"
       ]
     },
@@ -78,6 +85,17 @@
     }
   ],
   "work": [
+    {
+      "company": "Volunteer Ally",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
     {
       "company": "University of Hawaii Law Library",
       "position": "Public Service",
